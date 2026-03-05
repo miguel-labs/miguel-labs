@@ -23,7 +23,7 @@ Bem-vindo ao meu espaço de documentação técnica. Aqui, registro minha evolu�
 ---
 
 ## 🎯 Objetivo
-Dominar Linux e Redes, a base da Infraestrutura de TI
+- Dominar Linux e Redes, a base da Infraestrutura de TI
 ---
 
 ## 📫 Conecte-se comigo
