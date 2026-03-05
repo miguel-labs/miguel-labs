@@ -12,7 +12,7 @@ Bem-vindo ao meu espaço de documentação técnica. Aqui, registro minha evolu�
 
 ---
 
-## 🚀 Meu Foco Atual (Home Lab)
+## 🚀 Meu Foco Atual
 - Aprofundar e fortalecer a base(Linux e Redes)
 - Desenvolver experiência prática
 
