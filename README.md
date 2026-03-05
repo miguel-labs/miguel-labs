@@ -27,4 +27,4 @@ Dominar Linux e Redes, a base da Infraestrutura de TI
 ---
 
 ## 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-oliveira-de-falco-bb89b5399?utm_source=share_via&utm_content=profile&utm_medium=member_android)
