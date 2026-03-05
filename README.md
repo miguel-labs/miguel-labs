@@ -1,16 +1,30 @@
-## Hi there 👋
+# 📌 Miguel's Infrastructure Lab
+### IT Infrastructure | Linux SysAdmin 
 
-<!--
-**miguel-labs/miguel-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu espaço de documentação técnica. Aqui, registro minha evolução em **Infraestrutura de TI**, construindo a base necessária para gerenciar ambientes complexos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Hard Skills
+- **Sistemas Operacionais:** Linux (Debian/Ubuntu)
+- **Virtualização:** Experiência prática com **KVM / QEMU** para criação de ambientes isolados
+- **Redes:** Estudos focados em protocolos TCP/IP, DNS, SSH
+
+---
+
+## 🚀 Meu Foco Atual (Home Lab)
+- Aprofundar e fortalecer a base(Linux e Redes)
+- Desenvolver experiência prática
+
+---
+
+## 📚 Formação Acadêmica
+- **ADS:** Cursando Análise e Desenvolvimento de Sistemas.
+---
+
+## 🎯 Objetivo
+Dominar Linux e Redes, a base da Infraestrutura de TI
+---
+
+## 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINK_AQUI)
