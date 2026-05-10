@@ -32,4 +32,4 @@ Bem-vindo ao meu espaço de documentação técnica. Aqui, registro minha evolu�
 ---
 
 ## 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-oliveira-de-falco-7754153b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-falco-7754153b8)
